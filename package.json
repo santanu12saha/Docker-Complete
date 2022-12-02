@@ -1,0 +1,26 @@
+{
+  "name": "docker-complete",
+  "version": "1.0.0",
+  "description": "Docker and Kubernetes Learning from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanu12saha/Docker-Complete.git"
+  },
+  "keywords": [
+    "docker",
+    "kubernetes"
+  ],
+  "author": "Santanu Saha <saha.santanu0217@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanu12saha/Docker-Complete/issues"
+  },
+  "homepage": "https://github.com/santanu12saha/Docker-Complete#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
